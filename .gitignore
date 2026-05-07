@@ -1,0 +1,35 @@
+# Source code lives in the private build repo — not here.
+ems_cookie_harvester/
+requirements.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+
+# Build / dist
+build/
+dist/
+*.spec
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Local agent / memory
+.claude/
+
+# Logs and license artifacts
+logs/
+*.log
+license.json
