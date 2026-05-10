@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/icon.png" alt="EMS Cookie Harvester" width="96"/>
+  <img width="820" height="571" alt="IMG_5717" src="https://github.com/user-attachments/assets/5e71c117-bc01-4b9d-85f7-93004811ba7c" />
+
 </p>
 
 <h1 align="center">EMS Cookie Harvester</h1>
@@ -29,7 +30,11 @@ Built for **email marketers**, **list managers**, and **bulk operators** who nee
 
 ## Screenshots
 
-<!-- Drop your screenshots in here -->
+<img width="1062" height="666" alt="Screenshot 2026-05-11 at 00 40 08" src="https://github.com/user-attachments/assets/287a5ef9-537b-4217-865d-88bab2a9d653" />
+
+<img width="1061" height="673" alt="Screenshot 2026-05-11 at 00 43 57" src="https://github.com/user-attachments/assets/b81f3a80-083e-428d-b43c-e5f76fe89ef1" />
+
+
 
 ---
 
