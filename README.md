@@ -1,7 +1,6 @@
 <!-- ems-callout -->
-> **v1.0.3 — refreshed brand and a polished activation flow.** Same software, sharper edges. [→ Download the latest build](https://github.com/Retiredems/EMS-Cookie-Harvester/releases/latest)
+> **v1.0.4 — refreshed brand and a polished activation flow.** Same software, sharper edges. [→ Download the latest build](https://github.com/Retiredems/EMS-Cookie-Harvester/releases/latest)
 <!-- ems-callout -->
-
 <p align="center">
   <img width="820" height="571" alt="IMG_5717" src="https://github.com/user-attachments/assets/5e71c117-bc01-4b9d-85f7-93004811ba7c" />
 
